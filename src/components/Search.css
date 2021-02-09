@@ -1,0 +1,23 @@
+.search-page__button{
+  border: 1px #d1d5da solid;
+  background-color: #ffffff;
+}
+
+.btn-light:hover, .btn-light:focus, .btn-light:active, .btn-light.active, .open>.dropdown-toggle.btn-light {
+  background-color: #f6f8fa;
+}
+
+.form-control{
+  font-size: 14px;
+  padding: 0.25rem 0.75rem;
+}
+
+.btn {
+  padding: 0;
+  font-size: 14px;
+}
+
+.search-page__form{
+  display: flex;
+  gap: 0.5rem;
+}

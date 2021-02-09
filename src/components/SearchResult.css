@@ -1,0 +1,16 @@
+.search-result__count{
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.search-result__line {
+  height: 0.5px;
+  background-color: #92877d;
+  border: none;
+  width: 100%;
+  margin: 2.25rem 0;
+}
+
+.search-result{
+  max-width: 731px;
+}

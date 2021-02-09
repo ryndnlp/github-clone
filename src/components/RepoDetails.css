@@ -1,0 +1,19 @@
+.repo-details{
+  display: flex;
+  padding: 1rem;
+  gap: 1rem;
+}
+.repo-details__readme{
+  max-width: 891px;
+  padding: 1rem;
+  border: 0.5px #d1d5da solid;
+  border-radius: 4px;
+}
+.repo-details__readme-title{
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.repo-details__readme-content{
+  font-size: 1rem;
+}
